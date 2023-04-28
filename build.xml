@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="RequisicaoSocket" default="default" basedir=".">
+    <description>Projeto Requisicao-Socket.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
